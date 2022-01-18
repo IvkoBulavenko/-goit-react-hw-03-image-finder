@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import 'react-toastify/dist/ReactToastify.css';
 
 import ImageGallery from './ImageGallery';
-import Modal from './Modal';
+import Modal from './Modal/Modal';
 import Searchbar from './Searchbar';
 import fetchImagesAPI from '../services/searchApi';
 import Button from './Button/Button';
